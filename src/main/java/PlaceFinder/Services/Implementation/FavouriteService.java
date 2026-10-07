@@ -4,7 +4,7 @@ import PlaceFinder.Dtos.request.FavouriteRequest;
 import PlaceFinder.Dtos.response.FavouriteResponse;
 import PlaceFinder.Entities.FavouritePlace;
 import PlaceFinder.Services.Interface.IFavouriteService;
-import PlaceFinder.repositories.FavouriteRepository;
+import PlaceFinder.Repositories.FavouriteRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;

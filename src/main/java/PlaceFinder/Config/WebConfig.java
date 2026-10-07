@@ -1,4 +1,4 @@
-package PlaceFinder.config;
+package PlaceFinder.Config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

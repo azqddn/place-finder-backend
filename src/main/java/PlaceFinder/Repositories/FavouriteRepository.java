@@ -1,4 +1,4 @@
-package PlaceFinder.repositories;
+package PlaceFinder.Repositories;
 
 import PlaceFinder.Entities.FavouritePlace;
 import org.springframework.data.jpa.repository.JpaRepository;
